@@ -1,6 +1,6 @@
 # Golang: Ensuring Data Integrity with Access Proxies
 
-This repo contains a demo example for the [first part of my `Access Proxies in Go` blog series](https://homayoon.blog)
+This repo contains a demo example for the [first part of my `Access Proxies in Go` blog series](https://itnext.io/golang-ensuring-data-integrity-with-access-proxies-eb60a2453f3c)
 
 ## Introduction:
 Dealing with an ever changing data can be tough. Especially when you're trying to keep track of the original values at a given time. Let me explain:
